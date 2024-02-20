@@ -1,2 +1,2 @@
 # Afifa
-Personal markup langue
+Personal markup language profile.
